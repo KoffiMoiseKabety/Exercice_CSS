@@ -1,0 +1,60 @@
+
+   
+    .sedans {
+        background-color: hsl(31, 77%, 52%);
+        float: left;
+        width: 300px;
+        height: 300px;
+        padding: 30px;
+        border-radius: 5px;
+      }
+    .suvs {
+        background-color:hsl(184, 100%, 22%);
+        float: inline-start;
+        width: 310px;
+        height: 300px;
+        padding: 30px;
+    }
+    .luxury {
+        background-color: hsl(179, 100%, 13%);
+        float: left;
+        width: 300px;
+        height: 300px;
+        padding: 30px;
+        border-radius: 5px;
+    }
+    body{
+        font-size: 15px;
+        width: 1440px;
+        margin: 150px;
+        padding: 10px;
+        
+    }
+    button{
+        color: Transparent white hsla(0, 0%, 100%, 0.75);
+        height: 30px;
+        border-radius: 15px;
+        cursor: pointer;
+        position: relative;
+        bottom: -60px;
+        
+        
+        
+        
+    }
+    p{
+        color: hsla(0, 0%, 100%, 0.75);
+        
+    }
+    h1{
+        color: hsl(0, 0%, 95%);
+    }
+    #deplacement{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  
+    
+    
+    
